@@ -1,0 +1,14 @@
+{
+  "name": "12nov07",
+  "version": "1.0.0",
+  "description": "Tutorial Node.js + Express server exposing /hello and /good-evening endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
